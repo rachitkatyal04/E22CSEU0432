@@ -8,3 +8,5 @@ Even Number:
 ![Screenshot 2025-04-04 115637](https://github.com/user-attachments/assets/7ef2ea8f-7a2f-42e2-a8af-1f441ca58d61)
 Random Number:
 ![Screenshot 2025-04-04 115705](https://github.com/user-attachments/assets/3e5fcb42-5847-47eb-ad8e-054c22b7537e)
+Test Case:
+![Screenshot 2025-04-04 113809](https://github.com/user-attachments/assets/a446809f-598d-4b1b-a99a-962fb166fc11)
